@@ -32,7 +32,6 @@ This project presents an interactive Excel dashboard analyzing Vrinda Store’s 
 - Vrinda_Store_Sales_Analysis.xlsx
 
 ## 📷 Dashboard Preview
-## 📷 Dashboard Preview
 ![Dashboard](dashboard.png)
 
 ## 🚀 Conclusion
