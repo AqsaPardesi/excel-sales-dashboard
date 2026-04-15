@@ -32,7 +32,8 @@ This project presents an interactive Excel dashboard analyzing Vrinda Store’s 
 - Vrinda_Store_Sales_Analysis.xlsx
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## 🚀 Conclusion
 This dashboard helps in understanding customer behavior, identifying top-performing regions and channels, and making data-driven business decisions.
